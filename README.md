@@ -21,7 +21,7 @@ LinkedList_1c_4 : https://github.com/chethanlr/Advance-Java/blob/main/1c.4.png
 
 LinkedList_1c_5 : https://github.com/chethanlr/Advance-Java/blob/main/1c.5.png
 
-String 2a :
+String 2a : https://github.com/chethanlr/Advance-Java/blob/main/2a.png
 
 String 2b :
 
