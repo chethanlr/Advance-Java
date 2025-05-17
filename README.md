@@ -45,7 +45,7 @@ String (L3a8) 3c_3: https://github.com/chethanlr/Advance-Java/blob/main/3c3.png
 
 String (L3a9) 3c_4: https://github.com/chethanlr/Advance-Java/blob/main/3c4.png
 
-String (L3a10) 3c_5:
+String (L3a10) 3c_5: https://github.com/chethanlr/Advance-Java/blob/main/3c5.png
 
 
 
