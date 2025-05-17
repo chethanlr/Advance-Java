@@ -1,2 +1,9 @@
 # Advance-Java 
-ListOpeartion_1a : https://github.com/Rajeshwari670/ADV_JAVA_Assignment/blob/main/Screenshot%202025-05-17%20193404.png
+ListOpeartion_1a : 
+ArrayList_1b_1 :
+ArrayList_1b_2 :
+ArrayList_1b_3 :
+ArrayList_1b_4 :
+ArrayList_1b_5 :
+
+
