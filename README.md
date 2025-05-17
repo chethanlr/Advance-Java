@@ -11,7 +11,7 @@ ArrayList_1b_4 : https://github.com/chethanlr/Advance-Java/blob/main/1b1.png
 
 ArrayList_1b_5 : https://github.com/chethanlr/Advance-Java/blob/main/1b5.png
 
-LinkedList_1c_1 :
+LinkedList_1c_1 : https://github.com/chethanlr/Advance-Java/blob/main/1c1.png
 
 LinkedList_1c_2 :
 
