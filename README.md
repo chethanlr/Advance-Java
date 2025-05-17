@@ -15,7 +15,7 @@ LinkedList_1c_1 : https://github.com/chethanlr/Advance-Java/blob/main/1c1.png
 
 LinkedList_1c_2 : https://github.com/chethanlr/Advance-Java/blob/main/1c2.png
 
-LinkedList_1c_3 :
+LinkedList_1c_3 : https://github.com/chethanlr/Advance-Java/blob/main/1b3.png
 
 LinkedList_1c_4 :
 
