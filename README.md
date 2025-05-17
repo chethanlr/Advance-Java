@@ -31,7 +31,7 @@ String (L3a1) 3b_1: https://github.com/chethanlr/Advance-Java/blob/main/3b1.png
 
 String (L3a2) 3b_2: https://github.com/chethanlr/Advance-Java/blob/main/3b2.png
 
-String (L3a3) 3b_3:
+String (L3a3) 3b_3: https://github.com/chethanlr/Advance-Java/blob/main/3b3.png
 
 String (L3a4) 3b_4:
 
