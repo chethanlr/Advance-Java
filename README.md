@@ -27,7 +27,7 @@ String 2b : https://github.com/chethanlr/Advance-Java/blob/main/2b.png
 
 String Operation 3a :  https://github.com/chethanlr/Advance-Java/blob/main/3a.png
 
-String (L3a1) 3b_1:
+String (L3a1) 3b_1: https://github.com/chethanlr/Advance-Java/blob/main/3b1.png
 
 String (L3a2) 3b_2:
 
