@@ -43,7 +43,7 @@ String (L3a7) 3c_2: https://github.com/chethanlr/Advance-Java/blob/main/3c2.png
 
 String (L3a8) 3c_3: https://github.com/chethanlr/Advance-Java/blob/main/3c3.png
 
-String (L3a9) 3c_4:
+String (L3a9) 3c_4: https://github.com/chethanlr/Advance-Java/blob/main/3c4.png
 
 String (L3a10) 3c_5:
 
