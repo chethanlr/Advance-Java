@@ -13,7 +13,7 @@ ArrayList_1b_5 : https://github.com/chethanlr/Advance-Java/blob/main/1b5.png
 
 LinkedList_1c_1 : https://github.com/chethanlr/Advance-Java/blob/main/1c1.png
 
-LinkedList_1c_2 :
+LinkedList_1c_2 : https://github.com/chethanlr/Advance-Java/blob/main/1c2.png
 
 LinkedList_1c_3 :
 
