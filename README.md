@@ -27,15 +27,25 @@ String 2b : https://github.com/chethanlr/Advance-Java/blob/main/2b.png
 
 String Operation 3a :  https://github.com/chethanlr/Advance-Java/blob/main/3a.png
 
-String Exercise 3b_1:
+String (L3a1) 3b_1:
 
-String Exercise 3b_2:
+String (L3a2) 3b_2:
 
-String Exercise 3b_3:
+String (L3a3) 3b_3:
 
-String Exercise 3b_4:
+String (L3a4) 3b_4:
 
-String Exercise 3b_5:
+String (L3a5) 3b_5:
+
+String (L3a6) 3c_1:
+
+String (L3a7) 3c_2:
+
+String (L3a8) 3c_3:
+
+String (L3a9) 3c_4:
+
+String (L3a10) 3c_5:
 
 
 
