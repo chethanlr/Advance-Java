@@ -2,6 +2,6 @@
 
 6b output : https://github.com/chethanlr/Advance-Java/blob/main/6a%2C6b%2C6c_ServletPrograms/6boutput.jpeg
 
-6c output :
+6c output : https://github.com/chethanlr/Advance-Java/blob/main/6a%2C6b%2C6c_ServletPrograms/6c.jpeg
 
 
