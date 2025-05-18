@@ -79,10 +79,15 @@ Swing 5d : https://github.com/chethanlr/Advance-Java/blob/main/5dOutput.png
 
 8d Output : https://github.com/chethanlr/Advance-Java/blob/main/8c_8d/8d.jpeg
 
-
 9a Output : https://github.com/chethanlr/Advance-Java/blob/main/8a%2C8b_and_9a%2C9b/9a.jpeg
 
 9b Output : https://github.com/chethanlr/Advance-Java/blob/main/8a%2C8b_and_9a%2C9b/9b.jpeg
+
+9c Output : https://github.com/chethanlr/Advance-Java/blob/main/9c_9d/9c.jpeg
+
+9d Output : https://github.com/chethanlr/Advance-Java/blob/main/9c_9d/9d.jpeg
+
+
 
 
 
