@@ -53,13 +53,13 @@ Basic Swing 4b : https://github.com/chethanlr/Advance-Java/blob/main/4b.png
 
 Basic Swing 4c : https://github.com/chethanlr/Advance-Java/blob/main/4c.jpeg
 
-Swing 5a : 
+Swing 5a : https://github.com/chethanlr/Advance-Java/blob/main/5aOutput.png
 
-Swing 5b :
+Swing 5b : https://github.com/chethanlr/Advance-Java/blob/main/5bOutput.png
 
-Swing 5c :
+Swing 5c : https://github.com/chethanlr/Advance-Java/blob/main/5cOutput.png
 
-Swing 5d :
+Swing 5d : https://github.com/chethanlr/Advance-Java/blob/main/5dOutput.png
 
 
 
