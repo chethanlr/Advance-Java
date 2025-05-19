@@ -47,11 +47,11 @@ RandomStringGenerator 3c_4: https://github.com/chethanlr/Advance-Java/blob/main/
 
 WordCounter3c_5: https://github.com/chethanlr/Advance-Java/blob/main/3c5.png
 
-Basic Swing 4a : https://github.com/chethanlr/Advance-Java/blob/main/4a.png
+HelloSwingMessage 4a : https://github.com/chethanlr/Advance-Java/blob/main/4a.png
 
-Basic Swing 4b : https://github.com/chethanlr/Advance-Java/blob/main/4b.png
+CountryButtonEventDemo  4b : https://github.com/chethanlr/Advance-Java/blob/main/4b.png
 
-Basic Swing 4c : https://github.com/chethanlr/Advance-Java/blob/main/4c.jpeg
+ImageButtonEventDemo 4c : https://github.com/chethanlr/Advance-Java/blob/main/4c.jpeg
 
 Swing 5a : https://github.com/chethanlr/Advance-Java/blob/main/5aOutput.png
 
