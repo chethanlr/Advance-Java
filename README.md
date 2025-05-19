@@ -53,13 +53,13 @@ CountryButtonEventDemo  4b : https://github.com/chethanlr/Advance-Java/blob/main
 
 ImageButtonEventDemo 4c : https://github.com/chethanlr/Advance-Java/blob/main/4c.jpeg
 
-Swing 5a : https://github.com/chethanlr/Advance-Java/blob/main/5aOutput.png
+CountryListDisplay 5a : https://github.com/chethanlr/Advance-Java/blob/main/5aOutput.png
 
-Swing 5b : https://github.com/chethanlr/Advance-Java/blob/main/5bOutput.png
+ColorTabbedPaneRGB 5b : https://github.com/chethanlr/Advance-Java/blob/main/5bOutput.png
 
-Swing 5c : https://github.com/chethanlr/Advance-Java/blob/main/5cOutput.png
+CountryCapitalListDisplay 5c : https://github.com/chethanlr/Advance-Java/blob/main/5cOutput.png
 
-Swing 5d : https://github.com/chethanlr/Advance-Java/blob/main/5dOutput.png
+ColorTabbedPaneCMY 5d : https://github.com/chethanlr/Advance-Java/blob/main/5dOutput.png
 
 6a output : https://github.com/chethanlr/Advance-Java/blob/main/6a%2C6b%2C6c_ServletPrograms/6a.jpeg
 
