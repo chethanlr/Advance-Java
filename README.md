@@ -71,13 +71,13 @@ Prime 6c output : https://github.com/chethanlr/Advance-Java/blob/main/6a%2C6b%2C
 
 7b Cookie_Managamnet Output : https://github.com/chethanlr/Advance-Java/blob/main/7a%2C7b_Session%20And%20Cookie%20Management%20using%20JSP/7b.jpeg
 
-8a Output : https://github.com/chethanlr/Advance-Java/blob/main/8a%2C8b_and_9a%2C9b/8a.jpeg
+ 8a Output  : https://github.com/chethanlr/Advance-Java/blob/main/HTML,JSP&JDBC_8a,8b,8c,8d/8a/8a.jpeg
 
-8b Output : https://github.com/chethanlr/Advance-Java/blob/main/8a%2C8b_and_9a%2C9b/8b*.jpeg
+8b Output : https://github.com/chethanlr/Advance-Java/blob/main/HTML,JSP&JDBC_8a,8b,8c,8d/8b/8b.jpeg
 
-8c Output : https://github.com/chethanlr/Advance-Java/blob/main/8c_8d/8c.jpeg
+8c Output : https://github.com/chethanlr/Advance-Java/blob/main/HTML%2CJSP%26JDBC_8a%2C8b%2C8c%2C8d/8c.jpeg
 
-8d Output : https://github.com/chethanlr/Advance-Java/blob/main/8c_8d/8d.jpeg
+8d Output :  https://github.com/chethanlr/Advance-Java/blob/main/HTML%2CJSP%26JDBC_8a%2C8b%2C8c%2C8d/8d.jpeg
 
 9a Output : https://github.com/chethanlr/Advance-Java/blob/main/8a%2C8b_and_9a%2C9b/9a.jpeg
 
