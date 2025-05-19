@@ -21,31 +21,31 @@ DisplayLinkedListWithPositions : https://github.com/chethanlr/Advance-Java/blob/
 
 SwapElementsLinkedList : https://github.com/chethanlr/Advance-Java/blob/main/1c.5.png
 
-StringOperationsDemo : https://github.com/chethanlr/Advance-Java/blob/main/2a.png
+StringOperationsDemo 2a : https://github.com/chethanlr/Advance-Java/blob/main/2a.png
 
-StringPerformanceTest : https://github.com/chethanlr/Advance-Java/blob/main/2b.png
+StringPerformanceTest 2b: https://github.com/chethanlr/Advance-Java/blob/main/2b.png
 
-String Operation 3a :  https://github.com/chethanlr/Advance-Java/blob/main/3a.png
+AdvancedStringOperationsDemo 3a :  https://github.com/chethanlr/Advance-Java/blob/main/3a.png
 
-String (L3a1) 3b_1: https://github.com/chethanlr/Advance-Java/blob/main/3b1.png
+NullOrEmptyCheck 3b_1: https://github.com/chethanlr/Advance-Java/blob/main/3b1.png
 
-String (L3a2) 3b_2: https://github.com/chethanlr/Advance-Java/blob/main/3b2.png
+SubstringOccurrenceCounter 3b_2 : https://github.com/chethanlr/Advance-Java/blob/main/3b2.png
 
-String (L3a3) 3b_3: https://github.com/chethanlr/Advance-Java/blob/main/3b3.png
+ReverseStringDemo 3b_3: https://github.com/chethanlr/Advance-Java/blob/main/3b3.png
 
-String (L3a4) 3b_4: https://github.com/chethanlr/Advance-Java/blob/main/3b4.png
+PalindromeChecker 3b_4: https://github.com/chethanlr/Advance-Java/blob/main/3b4.png
 
-String (L3a5) 3b_5: https://github.com/chethanlr/Advance-Java/blob/main/3b5.png
+WhitespaceRemover 3b_5: https://github.com/chethanlr/Advance-Java/blob/main/3b5.png
 
-String (L3a6) 3c_1: https://github.com/chethanlr/Advance-Java/blob/main/3c1.png
+CapitalizeWordsDemo 3c_1: https://github.com/chethanlr/Advance-Java/blob/main/3c1.png
 
-String (L3a7) 3c_2: https://github.com/chethanlr/Advance-Java/blob/main/3c2.png
+TruncateStringDemo: https://github.com/chethanlr/Advance-Java/blob/main/3c2.png
 
-String (L3a8) 3c_3: https://github.com/chethanlr/Advance-Java/blob/main/3c3.png
+NumericStringValidator: https://github.com/chethanlr/Advance-Java/blob/main/3c3.png
 
-String (L3a9) 3c_4: https://github.com/chethanlr/Advance-Java/blob/main/3c4.png
+RandomStringGenerator 3c_4: https://github.com/chethanlr/Advance-Java/blob/main/3c4.png
 
-String (L3a10) 3c_5: https://github.com/chethanlr/Advance-Java/blob/main/3c5.png
+WordCounter3c_5: https://github.com/chethanlr/Advance-Java/blob/main/3c5.png
 
 Basic Swing 4a : https://github.com/chethanlr/Advance-Java/blob/main/4a.png
 
