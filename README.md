@@ -21,9 +21,9 @@ DisplayLinkedListWithPositions : https://github.com/chethanlr/Advance-Java/blob/
 
 SwapElementsLinkedList : https://github.com/chethanlr/Advance-Java/blob/main/1c.5.png
 
-String 2a : https://github.com/chethanlr/Advance-Java/blob/main/2a.png
+StringOperationsDemo : https://github.com/chethanlr/Advance-Java/blob/main/2a.png
 
-String 2b : https://github.com/chethanlr/Advance-Java/blob/main/2b.png
+StringPerformanceTest : https://github.com/chethanlr/Advance-Java/blob/main/2b.png
 
 String Operation 3a :  https://github.com/chethanlr/Advance-Java/blob/main/3a.png
 
