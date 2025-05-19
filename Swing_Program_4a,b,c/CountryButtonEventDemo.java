@@ -10,7 +10,7 @@ import java.awt.event.*;
 
 
 
-public class Swing_4b {
+public class CountryButtonEventDemo {
 	    public static void main(String[] args) {
 	        // Create the JFrame
 	        JFrame frame = new JFrame("Button Event Demo");
