@@ -67,9 +67,9 @@ Cookie Servlet 6b output : https://github.com/chethanlr/Advance-Java/blob/main/6
 
 Prime 6c output : https://github.com/chethanlr/Advance-Java/blob/main/6a%2C6b%2C6c_ServletPrograms/6c.jpeg
 
-7a Output : https://github.com/chethanlr/Advance-Java/blob/main/7a%2C7b_Session%20And%20Cookie%20Management%20using%20JSP/7a.jpeg
+7a Session_Managament Output : https://github.com/chethanlr/Advance-Java/blob/main/7a%2C7b_Session%20And%20Cookie%20Management%20using%20JSP/7a.jpeg
 
-7b Output : https://github.com/chethanlr/Advance-Java/blob/main/7a%2C7b_Session%20And%20Cookie%20Management%20using%20JSP/7b.jpeg
+7b Cookie_Managamnet Output : https://github.com/chethanlr/Advance-Java/blob/main/7a%2C7b_Session%20And%20Cookie%20Management%20using%20JSP/7b.jpeg
 
 8a Output : https://github.com/chethanlr/Advance-Java/blob/main/8a%2C8b_and_9a%2C9b/8a.jpeg
 
